@@ -41,15 +41,6 @@ public class BJ_1018 {
 						int count = 0;
 						if(Board[k][h] == 'B') {
 							//동서남북 탐색
-							for(int d = 0; d < 4; d++) {
-								if(k != 0 && k !=)
-							}
-
-							if(count%2!=0) {
-								w++;
-								
-							}
-						}
 						else {
 							Board[k][h];
 						}
